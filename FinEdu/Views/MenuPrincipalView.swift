@@ -18,17 +18,6 @@ struct MenuPrincipalView: View {
                     .padding(.top, 4)
 
                 NavigationLink {
-                    SeleccionEscenarioView()
-                } label: {
-                    BotonModo(titulo: "Selección de crisis",
-                              subtitulo: "Vive crisis económicas reales y decide con tus propias palabras.",
-                              icono: "chart.line.downtrend.xyaxis")
-                }
-                .buttonStyle(.plain)
-                .cursorFlecha()
-                .accessibilityHint("Abre la lista de crisis históricas jugables")
-
-                NavigationLink {
                     SimulacionBolsaView()
                 } label: {
                     BotonModo(titulo: "Simulación de bolsa",
@@ -49,6 +38,17 @@ struct MenuPrincipalView: View {
                 .buttonStyle(.plain)
                 .cursorFlecha()
                 .accessibilityHint("Abre el simulador de presupuesto personal mensual")
+
+                NavigationLink {
+                    SeleccionEscenarioView()
+                } label: {
+                    BotonModo(titulo: "Selección de crisis",
+                              subtitulo: "Vive crisis económicas reales y decide con tus propias palabras.",
+                              icono: "chart.line.downtrend.xyaxis")
+                }
+                .buttonStyle(.plain)
+                .cursorFlecha()
+                .accessibilityHint("Abre la lista de crisis históricas jugables")
             }
             .padding()
         }
