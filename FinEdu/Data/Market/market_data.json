@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "currency": "USD",
+  "realDataCutoff": "2024-12",
+  "note": "Cierres mensuales (ajustados por splits, p. ej. NVDA 10:1 jun-2024 y AVGO 10:1 jul-2024). Los precios HASTA 2024-12 se basan en cierres históricos reales aproximados; de 2025-01 en adelante son valores PLAUSIBLES proyectados para fines educativos. Para actualizar a datos reales, reemplaza los meses posteriores a realDataCutoff. Simulador educativo, no asesoría de inversión.",
+  "months": [
+    "2023-06","2023-07","2023-08","2023-09","2023-10","2023-11","2023-12",
+    "2024-01","2024-02","2024-03","2024-04","2024-05","2024-06","2024-07","2024-08","2024-09","2024-10","2024-11","2024-12",
+    "2025-01","2025-02","2025-03","2025-04","2025-05","2025-06","2025-07","2025-08","2025-09","2025-10","2025-11","2025-12",
+    "2026-01","2026-02","2026-03","2026-04","2026-05"
+  ],
+  "companies": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "sector": "Tecnología de consumo",
+      "description": "Fabricante del iPhone, Mac y servicios. Una de las marcas más valiosas del mundo, con ingresos muy estables.",
+      "prices": [
+        {"month":"2023-06","close":193.0},{"month":"2023-07","close":196.0},{"month":"2023-08","close":188.0},{"month":"2023-09","close":171.0},{"month":"2023-10","close":170.0},{"month":"2023-11","close":189.0},{"month":"2023-12","close":192.0},
+        {"month":"2024-01","close":184.0},{"month":"2024-02","close":180.0},{"month":"2024-03","close":171.0},{"month":"2024-04","close":170.0},{"month":"2024-05","close":192.0},{"month":"2024-06","close":210.0},{"month":"2024-07","close":222.0},{"month":"2024-08","close":229.0},{"month":"2024-09","close":233.0},{"month":"2024-10","close":225.0},{"month":"2024-11","close":237.0},{"month":"2024-12","close":250.0},
+        {"month":"2025-01","close":236.0},{"month":"2025-02","close":241.0},{"month":"2025-03","close":222.0},{"month":"2025-04","close":205.0},{"month":"2025-05","close":200.0},{"month":"2025-06","close":213.0},{"month":"2025-07","close":225.0},{"month":"2025-08","close":232.0},{"month":"2025-09","close":240.0},{"month":"2025-10","close":248.0},{"month":"2025-11","close":255.0},{"month":"2025-12","close":260.0},
+        {"month":"2026-01","close":258.0},{"month":"2026-02","close":265.0},{"month":"2026-03","close":270.0},{"month":"2026-04","close":268.0},{"month":"2026-05","close":275.0}
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "sector": "Software y nube",
+      "description": "Líder en software empresarial, la nube Azure e inversión en IA (OpenAI). Ingresos por suscripción muy recurrentes.",
+      "prices": [
+        {"month":"2023-06","close":340.0},{"month":"2023-07","close":336.0},{"month":"2023-08","close":328.0},{"month":"2023-09","close":315.0},{"month":"2023-10","close":338.0},{"month":"2023-11","close":378.0},{"month":"2023-12","close":376.0},
+        {"month":"2024-01","close":397.0},{"month":"2024-02","close":413.0},{"month":"2024-03","close":421.0},{"month":"2024-04","close":389.0},{"month":"2024-05","close":415.0},{"month":"2024-06","close":447.0},{"month":"2024-07","close":418.0},{"month":"2024-08","close":417.0},{"month":"2024-09","close":431.0},{"month":"2024-10","close":406.0},{"month":"2024-11","close":423.0},{"month":"2024-12","close":421.0},
+        {"month":"2025-01","close":415.0},{"month":"2025-02","close":397.0},{"month":"2025-03","close":378.0},{"month":"2025-04","close":392.0},{"month":"2025-05","close":420.0},{"month":"2025-06","close":440.0},{"month":"2025-07","close":455.0},{"month":"2025-08","close":470.0},{"month":"2025-09","close":480.0},{"month":"2025-10","close":490.0},{"month":"2025-11","close":500.0},{"month":"2025-12","close":505.0},
+        {"month":"2026-01","close":498.0},{"month":"2026-02","close":510.0},{"month":"2026-03","close":520.0},{"month":"2026-04","close":515.0},{"month":"2026-05","close":530.0}
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "sector": "Semiconductores / IA",
+      "description": "Diseña las GPU que entrenan los modelos de IA. Protagonista del boom de la inteligencia artificial; precios ajustados por su split 10:1 de 2024.",
+      "prices": [
+        {"month":"2023-06","close":42.0},{"month":"2023-07","close":46.0},{"month":"2023-08","close":49.0},{"month":"2023-09","close":43.0},{"month":"2023-10","close":41.0},{"month":"2023-11","close":47.0},{"month":"2023-12","close":49.0},
+        {"month":"2024-01","close":62.0},{"month":"2024-02","close":79.0},{"month":"2024-03","close":90.0},{"month":"2024-04","close":86.0},{"month":"2024-05","close":109.0},{"month":"2024-06","close":123.0},{"month":"2024-07","close":117.0},{"month":"2024-08","close":119.0},{"month":"2024-09","close":121.0},{"month":"2024-10","close":132.0},{"month":"2024-11","close":138.0},{"month":"2024-12","close":134.0},
+        {"month":"2025-01","close":120.0},{"month":"2025-02","close":124.0},{"month":"2025-03","close":110.0},{"month":"2025-04","close":108.0},{"month":"2025-05","close":135.0},{"month":"2025-06","close":155.0},{"month":"2025-07","close":170.0},{"month":"2025-08","close":178.0},{"month":"2025-09","close":185.0},{"month":"2025-10","close":195.0},{"month":"2025-11","close":200.0},{"month":"2025-12","close":205.0},
+        {"month":"2026-01","close":198.0},{"month":"2026-02","close":210.0},{"month":"2026-03","close":215.0},{"month":"2026-04","close":208.0},{"month":"2026-05","close":220.0}
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "sector": "Publicidad e internet",
+      "description": "Matriz de Google, YouTube y Android. La mayor parte de sus ingresos vienen de la publicidad digital; también invierte en IA y nube.",
+      "prices": [
+        {"month":"2023-06","close":120.0},{"month":"2023-07","close":132.0},{"month":"2023-08","close":137.0},{"month":"2023-09","close":131.0},{"month":"2023-10","close":125.0},{"month":"2023-11","close":133.0},{"month":"2023-12","close":140.0},
+        {"month":"2024-01","close":140.0},{"month":"2024-02","close":138.0},{"month":"2024-03","close":152.0},{"month":"2024-04","close":164.0},{"month":"2024-05","close":174.0},{"month":"2024-06","close":183.0},{"month":"2024-07","close":172.0},{"month":"2024-08","close":163.0},{"month":"2024-09","close":165.0},{"month":"2024-10","close":171.0},{"month":"2024-11","close":169.0},{"month":"2024-12","close":190.0},
+        {"month":"2025-01","close":200.0},{"month":"2025-02","close":185.0},{"month":"2025-03","close":155.0},{"month":"2025-04","close":160.0},{"month":"2025-05","close":170.0},{"month":"2025-06","close":178.0},{"month":"2025-07","close":185.0},{"month":"2025-08","close":190.0},{"month":"2025-09","close":195.0},{"month":"2025-10","close":200.0},{"month":"2025-11","close":205.0},{"month":"2025-12","close":210.0},
+        {"month":"2026-01","close":208.0},{"month":"2026-02","close":215.0},{"month":"2026-03","close":220.0},{"month":"2026-04","close":218.0},{"month":"2026-05","close":225.0}
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "sector": "Comercio electrónico y nube",
+      "description": "Gigante del comercio en línea y dueño de AWS, líder de la computación en la nube. Combina retail de margen bajo con servicios de margen alto.",
+      "prices": [
+        {"month":"2023-06","close":130.0},{"month":"2023-07","close":133.0},{"month":"2023-08","close":138.0},{"month":"2023-09","close":127.0},{"month":"2023-10","close":133.0},{"month":"2023-11","close":147.0},{"month":"2023-12","close":152.0},
+        {"month":"2024-01","close":159.0},{"month":"2024-02","close":176.0},{"month":"2024-03","close":180.0},{"month":"2024-04","close":175.0},{"month":"2024-05","close":176.0},{"month":"2024-06","close":193.0},{"month":"2024-07","close":182.0},{"month":"2024-08","close":178.0},{"month":"2024-09","close":186.0},{"month":"2024-10","close":186.0},{"month":"2024-11","close":207.0},{"month":"2024-12","close":220.0},
+        {"month":"2025-01","close":238.0},{"month":"2025-02","close":212.0},{"month":"2025-03","close":195.0},{"month":"2025-04","close":185.0},{"month":"2025-05","close":205.0},{"month":"2025-06","close":215.0},{"month":"2025-07","close":225.0},{"month":"2025-08","close":230.0},{"month":"2025-09","close":235.0},{"month":"2025-10","close":240.0},{"month":"2025-11","close":245.0},{"month":"2025-12","close":250.0},
+        {"month":"2026-01","close":248.0},{"month":"2026-02","close":255.0},{"month":"2026-03","close":260.0},{"month":"2026-04","close":258.0},{"month":"2026-05","close":265.0}
+      ]
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "sector": "Redes sociales",
+      "description": "Dueña de Facebook, Instagram y WhatsApp. Vive de la publicidad y apuesta fuerte por la IA y la realidad virtual.",
+      "prices": [
+        {"month":"2023-06","close":287.0},{"month":"2023-07","close":319.0},{"month":"2023-08","close":296.0},{"month":"2023-09","close":300.0},{"month":"2023-10","close":301.0},{"month":"2023-11","close":327.0},{"month":"2023-12","close":354.0},
+        {"month":"2024-01","close":390.0},{"month":"2024-02","close":490.0},{"month":"2024-03","close":485.0},{"month":"2024-04","close":443.0},{"month":"2024-05","close":468.0},{"month":"2024-06","close":503.0},{"month":"2024-07","close":475.0},{"month":"2024-08","close":521.0},{"month":"2024-09","close":574.0},{"month":"2024-10","close":568.0},{"month":"2024-11","close":574.0},{"month":"2024-12","close":585.0},
+        {"month":"2025-01","close":675.0},{"month":"2025-02","close":670.0},{"month":"2025-03","close":580.0},{"month":"2025-04","close":550.0},{"month":"2025-05","close":640.0},{"month":"2025-06","close":700.0},{"month":"2025-07","close":720.0},{"month":"2025-08","close":740.0},{"month":"2025-09","close":750.0},{"month":"2025-10","close":760.0},{"month":"2025-11","close":770.0},{"month":"2025-12","close":780.0},
+        {"month":"2026-01","close":775.0},{"month":"2026-02","close":790.0},{"month":"2026-03","close":800.0},{"month":"2026-04","close":795.0},{"month":"2026-05","close":810.0}
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "sector": "Semiconductores",
+      "description": "Fabricante de chips para redes, datacenters y software de infraestructura. Beneficiada por la demanda de hardware para IA; precios ajustados por su split 10:1 de 2024.",
+      "prices": [
+        {"month":"2023-06","close":86.0},{"month":"2023-07","close":89.0},{"month":"2023-08","close":90.0},{"month":"2023-09","close":83.0},{"month":"2023-10","close":88.0},{"month":"2023-11","close":99.0},{"month":"2023-12","close":111.0},
+        {"month":"2024-01","close":120.0},{"month":"2024-02","close":130.0},{"month":"2024-03","close":133.0},{"month":"2024-04","close":131.0},{"month":"2024-05","close":144.0},{"month":"2024-06","close":160.0},{"month":"2024-07","close":155.0},{"month":"2024-08","close":160.0},{"month":"2024-09","close":171.0},{"month":"2024-10","close":174.0},{"month":"2024-11","close":168.0},{"month":"2024-12","close":232.0},
+        {"month":"2025-01","close":220.0},{"month":"2025-02","close":205.0},{"month":"2025-03","close":190.0},{"month":"2025-04","close":195.0},{"month":"2025-05","close":230.0},{"month":"2025-06","close":255.0},{"month":"2025-07","close":270.0},{"month":"2025-08","close":280.0},{"month":"2025-09","close":290.0},{"month":"2025-10","close":300.0},{"month":"2025-11","close":310.0},{"month":"2025-12","close":320.0},
+        {"month":"2026-01","close":315.0},{"month":"2026-02","close":330.0},{"month":"2026-03","close":340.0},{"month":"2026-04","close":335.0},{"month":"2026-05","close":350.0}
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "sector": "Automóviles eléctricos",
+      "description": "Fabricante de autos eléctricos y baterías, con apuestas en conducción autónoma y robótica. Su precio es muy volátil.",
+      "prices": [
+        {"month":"2023-06","close":261.0},{"month":"2023-07","close":267.0},{"month":"2023-08","close":258.0},{"month":"2023-09","close":250.0},{"month":"2023-10","close":200.0},{"month":"2023-11","close":240.0},{"month":"2023-12","close":248.0},
+        {"month":"2024-01","close":188.0},{"month":"2024-02","close":202.0},{"month":"2024-03","close":175.0},{"month":"2024-04","close":183.0},{"month":"2024-05","close":178.0},{"month":"2024-06","close":197.0},{"month":"2024-07","close":232.0},{"month":"2024-08","close":214.0},{"month":"2024-09","close":261.0},{"month":"2024-10","close":249.0},{"month":"2024-11","close":345.0},{"month":"2024-12","close":404.0},
+        {"month":"2025-01","close":400.0},{"month":"2025-02","close":330.0},{"month":"2025-03","close":260.0},{"month":"2025-04","close":285.0},{"month":"2025-05","close":340.0},{"month":"2025-06","close":315.0},{"month":"2025-07","close":330.0},{"month":"2025-08","close":340.0},{"month":"2025-09","close":350.0},{"month":"2025-10","close":360.0},{"month":"2025-11","close":355.0},{"month":"2025-12","close":370.0},
+        {"month":"2026-01","close":360.0},{"month":"2026-02","close":375.0},{"month":"2026-03","close":385.0},{"month":"2026-04","close":380.0},{"month":"2026-05","close":390.0}
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway (B)",
+      "sector": "Conglomerado / seguros",
+      "description": "El holding de Warren Buffett: dueño de seguros, ferrocarriles, energía y grandes participaciones en otras empresas. Visto como inversión diversificada y defensiva.",
+      "prices": [
+        {"month":"2023-06","close":341.0},{"month":"2023-07","close":357.0},{"month":"2023-08","close":362.0},{"month":"2023-09","close":351.0},{"month":"2023-10","close":346.0},{"month":"2023-11","close":360.0},{"month":"2023-12","close":356.0},
+        {"month":"2024-01","close":382.0},{"month":"2024-02","close":410.0},{"month":"2024-03","close":420.0},{"month":"2024-04","close":404.0},{"month":"2024-05","close":407.0},{"month":"2024-06","close":407.0},{"month":"2024-07","close":441.0},{"month":"2024-08","close":466.0},{"month":"2024-09","close":456.0},{"month":"2024-10","close":450.0},{"month":"2024-11","close":474.0},{"month":"2024-12","close":454.0},
+        {"month":"2025-01","close":465.0},{"month":"2025-02","close":480.0},{"month":"2025-03","close":510.0},{"month":"2025-04","close":520.0},{"month":"2025-05","close":505.0},{"month":"2025-06","close":495.0},{"month":"2025-07","close":490.0},{"month":"2025-08","close":500.0},{"month":"2025-09","close":510.0},{"month":"2025-10","close":515.0},{"month":"2025-11","close":520.0},{"month":"2025-12","close":525.0},
+        {"month":"2026-01","close":522.0},{"month":"2026-02","close":530.0},{"month":"2026-03","close":538.0},{"month":"2026-04","close":535.0},{"month":"2026-05","close":545.0}
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "name": "TSMC",
+      "sector": "Semiconductores (manufactura)",
+      "description": "La mayor fábrica de chips del mundo (Taiwán). Produce los procesadores de Apple, NVIDIA y otros; clave en la cadena de suministro de la IA.",
+      "prices": [
+        {"month":"2023-06","close":101.0},{"month":"2023-07","close":99.0},{"month":"2023-08","close":92.0},{"month":"2023-09","close":88.0},{"month":"2023-10","close":88.0},{"month":"2023-11","close":97.0},{"month":"2023-12","close":104.0},
+        {"month":"2024-01","close":118.0},{"month":"2024-02","close":128.0},{"month":"2024-03","close":138.0},{"month":"2024-04","close":136.0},{"month":"2024-05","close":156.0},{"month":"2024-06","close":173.0},{"month":"2024-07","close":171.0},{"month":"2024-08","close":168.0},{"month":"2024-09","close":172.0},{"month":"2024-10","close":194.0},{"month":"2024-11","close":188.0},{"month":"2024-12","close":198.0},
+        {"month":"2025-01","close":210.0},{"month":"2025-02","close":200.0},{"month":"2025-03","close":175.0},{"month":"2025-04","close":160.0},{"month":"2025-05","close":190.0},{"month":"2025-06","close":210.0},{"month":"2025-07","close":225.0},{"month":"2025-08","close":235.0},{"month":"2025-09","close":245.0},{"month":"2025-10","close":255.0},{"month":"2025-11","close":260.0},{"month":"2025-12","close":265.0},
+        {"month":"2026-01","close":260.0},{"month":"2026-02","close":270.0},{"month":"2026-03","close":278.0},{"month":"2026-04","close":275.0},{"month":"2026-05","close":285.0}
+      ]
+    }
+  ],
+  "events": [
+    {"month":"2023-06","title":"Arranca el boom de la IA","detail":"NVIDIA supera por momentos US$1 billón de capitalización: la fiebre por los chips de inteligencia artificial impulsa a todo el sector tecnológico."},
+    {"month":"2023-10","title":"Tasas de interés en máximos","detail":"La Reserva Federal mantiene tasas cerca de 5.5%. El dinero caro presiona a las acciones de crecimiento y varios precios corrigen a la baja."},
+    {"month":"2024-01","title":"Las 'Siete Magníficas'","detail":"Un puñado de gigantes tecnológicos (Apple, Microsoft, NVIDIA, Alphabet, Amazon, Meta, Tesla) concentra gran parte de las ganancias del mercado."},
+    {"month":"2024-06","title":"Split de NVIDIA 10:1","detail":"NVIDIA divide sus acciones 10 a 1 y por momentos se convierte en la empresa más valiosa del mundo, empujada por la demanda de IA."},
+    {"month":"2024-09","title":"La Fed recorta tasas","detail":"La Reserva Federal empieza a bajar las tasas de interés. Un dinero más barato suele favorecer a los activos de riesgo como las acciones."},
+    {"month":"2024-12","title":"Cierre de año récord","detail":"Las bolsas cierran 2024 en máximos impulsadas por la IA. (Último mes con datos históricos reales; lo que sigue son proyecciones educativas.)"},
+    {"month":"2025-03","title":"Corrección por dudas sobre la IA","detail":"Temores sobre el gasto en IA y mayor competencia provocan una corrección en las tecnológicas. Recuerda: las caídas son parte normal del mercado."},
+    {"month":"2025-06","title":"Recuperación del mercado","detail":"Conforme se confirman las ganancias ligadas a la IA, las acciones se recuperan. Quien vendió en pánico se perdió el rebote."},
+    {"month":"2026-01","title":"Un mercado más maduro","detail":"Tras el ciclo intenso de la IA, el crecimiento se modera y se vuelve más parejo entre sectores."}
+  ]
+}

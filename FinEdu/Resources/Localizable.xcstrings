@@ -1,0 +1,840 @@
+{
+  "sourceLanguage" : "es-MX",
+  "strings" : {
+    "" : {
+
+    },
+    "¿Cómo repartes tu salario?" : {
+
+    },
+    "¿Cuál es tu presupuesto total?" : {
+
+    },
+    "¿Cuánto comprar?" : {
+
+    },
+    "¿Cuánto vender?" : {
+
+    },
+    "¿Qué quieres practicar hoy?" : {
+
+    },
+    "¿Reiniciar el simulador?" : {
+
+    },
+    "#" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ · %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@ · mes %lld de %lld" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · mes %2$lld de %3$lld"
+          }
+        }
+      }
+    },
+    "%@ acc a %@ · %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ acc a %2$@ · %3$@"
+          }
+        }
+      }
+    },
+    "%@ MXN" : {
+
+    },
+    "%@: %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$@"
+          }
+        }
+      }
+    },
+    "%@: %@. %@." : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$@. %3$@."
+          }
+        }
+      }
+    },
+    "%@: %lld por ciento, %@ pesos" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$lld por ciento, %3$@ pesos"
+          }
+        }
+      }
+    },
+    "%@: bloqueado. Juega para desbloquearlo." : {
+
+    },
+    "%@. %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@. %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld de %lld conceptos desbloqueados" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld de %2$lld conceptos desbloqueados"
+          }
+        }
+      }
+    },
+    "%lld de %lld dólares" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld de %2$lld dólares"
+          }
+        }
+      }
+    },
+    "%lld pesos, %lld por ciento" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld pesos, %2$lld por ciento"
+          }
+        }
+      }
+    },
+    "%lld por ciento del salario" : {
+
+    },
+    "%lld%%" : {
+
+    },
+    "$" : {
+
+    },
+    "$0" : {
+
+    },
+    "0" : {
+
+    },
+    "Abre el contexto histórico de la crisis" : {
+
+    },
+    "Abre el simulador de presupuesto personal mensual" : {
+
+    },
+    "Abre el simulador del mercado de valores" : {
+
+    },
+    "Abre la crisis histórica relacionada en el simulador" : {
+
+    },
+    "Abre la lista de crisis históricas jugables" : {
+
+    },
+    "Abrir crisis" : {
+
+    },
+    "Abrir una crisis" : {
+
+    },
+    "Acciones" : {
+
+    },
+    "Ajustar %@" : {
+
+    },
+    "Análisis: %@" : {
+
+    },
+    "Analiza tu decisión y muestra las consecuencias" : {
+
+    },
+    "Analizando tu decisión…" : {
+
+    },
+    "Analizar mi presupuesto" : {
+
+    },
+    "Antes de empezar" : {
+
+    },
+    "Arma tu presupuesto del mes" : {
+
+    },
+    "Arrastra sobre la gráfica para ver cada turno. La línea roja punteada es la inflación acumulada del escenario (datos históricos reales). Vencer a esa línea —no solo \"tener más dinero\"— es conservar riqueza real." : {
+
+    },
+    "Aún no has comprado ni vendido nada." : {
+
+    },
+    "Avanzar mes" : {
+
+    },
+    "Bloqueado" : {
+
+    },
+    "Buscar concepto" : {
+
+    },
+    "Calculando una recomendación para ti…" : {
+
+    },
+    "Cambia lo que muestra la gráfica" : {
+
+    },
+    "Cambiar" : {
+
+    },
+    "Cambio en tu patrimonio: %@" : {
+
+    },
+    "Cancelar" : {
+
+    },
+    "Cerrar consejo" : {
+
+    },
+    "Clasificación: %@. %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clasificación: %1$@. %2$@"
+          }
+        }
+      }
+    },
+    "Coach financiero" : {
+
+    },
+    "Comenzar" : {
+
+    },
+    "Composición de tu portafolio por empresa" : {
+
+    },
+    "Compra las acciones con tu efectivo" : {
+
+    },
+    "Comprar" : {
+
+    },
+    "Concepto desbloqueado en el glosario: %@" : {
+
+    },
+    "Conceptos que aprendiste" : {
+
+    },
+    "Confirma el monto y cierra el teclado" : {
+
+    },
+    "Confirma el salario y cierra el teclado" : {
+
+    },
+    "Confirmar compra" : {
+
+    },
+    "Confirmar venta" : {
+
+    },
+    "Consejo del coach: %@" : {
+
+    },
+    "Contexto de la crisis" : {
+
+    },
+    "Continúa para repartir tu salario entre las categorías" : {
+
+    },
+    "Continuar" : {
+
+    },
+    "Costo total" : {
+
+    },
+    "Crea tu cartera y abre el simulador en junio de 2023" : {
+
+    },
+    "Crisis" : {
+
+    },
+    "Desbloquea conceptos jugando: cada decisión y cada lección revela nuevas entradas." : {
+
+    },
+    "Distribución del presupuesto por categoría" : {
+
+    },
+    "Efectivo disponible" : {
+
+    },
+    "Efectivo: %@" : {
+
+    },
+    "Ej. 10000" : {
+
+    },
+    "Ej. 12000" : {
+
+    },
+    "El simulador te dice: %@" : {
+
+    },
+    "Elige si quieres comprar o vender" : {
+
+    },
+    "Elige tu crisis" : {
+
+    },
+    "Elige una opción" : {
+
+    },
+    "Empezar a invertir" : {
+
+    },
+    "Empieza a jugar una crisis económica en FinEdu." : {
+
+    },
+    "Empresa" : {
+
+    },
+    "Empresas" : {
+
+    },
+    "Entendido" : {
+
+    },
+    "Enviar decisión" : {
+
+    },
+    "Escenario: %@, %@, periodo %@. Tu rol: %@.%@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Escenario: %1$@, %2$@, periodo %3$@. Tu rol: %4$@.%5$@"
+          }
+        }
+      }
+    },
+    "Escribe con tus palabras qué harás con tu dinero en este turno. Por ejemplo: compraré dólares, o pagaré mi deuda." : {
+
+    },
+    "Escribe tu decisión…" : {
+
+    },
+    "Escribe un monto (\"4000\") o un porcentaje (\"40%\"), o usa el deslizador." : {
+
+    },
+    "Escribe una cantidad en pesos o un porcentaje terminado en %" : {
+
+    },
+    "Este monto será tu efectivo inicial, 100% líquido. Podrás comprar acciones cuando quieras." : {
+
+    },
+    "Evento de %@: %@. %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Evento de %1$@: %2$@. %3$@"
+          }
+        }
+      }
+    },
+    "Evento del turno %lld: %@. %@ Dato histórico: %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Evento del turno %1$lld: %2$@. %3$@ Dato histórico: %4$@"
+          }
+        }
+      }
+    },
+    "FinEdu" : {
+
+    },
+    "Genera una recomendación de cuánto invertir" : {
+
+    },
+    "Glosario" : {
+
+    },
+    "Glosario de conceptos económicos" : {
+
+    },
+    "Gráfica de tu patrimonio contra la inflación" : {
+
+    },
+    "Gráfica de tu patrimonio contra la inflación por turno" : {
+
+    },
+    "Gráfica del valor de tu portafolio comparado con dejar todo en efectivo" : {
+
+    },
+    "Gráfica del valor total de tu portafolio mes a mes" : {
+
+    },
+    "Gráfica final de patrimonio contra inflación" : {
+
+    },
+    "Guarda la partida y regresa a la selección de escenarios" : {
+
+    },
+    "Historial" : {
+
+    },
+    "IA 100% en tu dispositivo" : {
+
+    },
+    "IA clásica" : {
+
+    },
+    "IA generativa" : {
+
+    },
+    "Ingresa un salario mensual simulado en pesos mexicanos (MXN)." : {
+
+    },
+    "Ingresar por" : {
+
+    },
+    "Inicia la simulación %@, de %lld turnos" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inicia la simulación %1$@, de %2$lld turnos"
+          }
+        }
+      }
+    },
+    "Juega de nuevo y menciona estrategias concretas para desbloquear conceptos." : {
+
+    },
+    "La IA del dispositivo clasifica tu presupuesto y te da retroalimentación" : {
+
+    },
+    "Listo" : {
+
+    },
+    "Llegaste a %@" : {
+
+    },
+    "Lo que aprendiste" : {
+
+    },
+    "Más información" : {
+
+    },
+    "Más información sobre esta crisis" : {
+
+    },
+    "Más opciones del simulador" : {
+
+    },
+    "Máx" : {
+
+    },
+    "mejor" : {
+
+    },
+    "Mes" : {
+
+    },
+    "Monto" : {
+
+    },
+    "Monto (%@)" : {
+
+    },
+    "Monto ($)" : {
+
+    },
+    "Monto a invertir en bolsa" : {
+
+    },
+    "Monto a invertir: %lld dólares" : {
+
+    },
+    "Monto en dólares" : {
+
+    },
+    "Monto para %@" : {
+
+    },
+    "Motor activo: %@." : {
+
+    },
+    "Motor de inteligencia artificial activo: %@" : {
+
+    },
+    "Muestra detalles de la arquitectura de IA en el dispositivo" : {
+
+    },
+    "Muestra tu score final y las lecciones aprendidas" : {
+
+    },
+    "MXN" : {
+
+    },
+    "Narrador: %@" : {
+
+    },
+    "Ninguna decisión que escribas sale de tu iPhone: no hay servidores, ni nube, ni conexión de red." : {
+
+    },
+    "Nivel de riesgo de tu decisión: %@, %lld de 4" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nivel de riesgo de tu decisión: %1$@, %2$lld de 4"
+          }
+        }
+      }
+    },
+    "No registraste compras durante la simulación." : {
+
+    },
+    "Número de acciones" : {
+
+    },
+    "Opción: %@" : {
+
+    },
+    "Operación" : {
+
+    },
+    "Pasa a la siguiente página de introducción" : {
+
+    },
+    "Pasa al siguiente mes y actualiza los precios" : {
+
+    },
+    "Patrimonio: %@. Liquidez: %lld por ciento. Resiliencia financiera: %lld de 100." : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Patrimonio: %1$@. Liquidez: %2$lld por ciento. Resiliencia financiera: %3$lld de 100."
+          }
+        }
+      }
+    },
+    "Precio" : {
+
+    },
+    "Precio (%@)" : {
+
+    },
+    "Presupuesto mensual" : {
+
+    },
+    "Presupuesto total en dólares" : {
+
+    },
+    "Progreso del glosario: %lld de %lld conceptos desbloqueados" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Progreso del glosario: %1$lld de %2$lld conceptos desbloqueados"
+          }
+        }
+      }
+    },
+    "Qué puedes ajustar" : {
+
+    },
+    "Recibirás" : {
+
+    },
+    "Recomendación" : {
+
+    },
+    "Recorriste %lld meses de mercado. Esto es lo que pasó con tu dinero." : {
+
+    },
+    "Reiniciar" : {
+
+    },
+    "Reiniciar simulador" : {
+
+    },
+    "Rellena con una fracción del máximo disponible" : {
+
+    },
+    "Reparte tu salario entre las 6 categorías. Una IA en tu dispositivo analizará tus hábitos y te dirá qué tan sostenible es tu plan." : {
+
+    },
+    "Resultados" : {
+
+    },
+    "Resultados generados con %@, 100%% en tu dispositivo." : {
+
+    },
+    "Salario %@ · %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Salario %1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "Salario capturado: %lld pesos" : {
+
+    },
+    "Salario mensual" : {
+
+    },
+    "Salario mensual en pesos" : {
+
+    },
+    "Salario mensual: %lld pesos. Toca Cambiar para editarlo." : {
+
+    },
+    "Salario: %@ MXN" : {
+
+    },
+    "Score" : {
+
+    },
+    "Score %lld" : {
+
+    },
+    "Se borrarán tu efectivo, posiciones e historial de bolsa. Tus partidas de crisis no se tocan." : {
+
+    },
+    "Serie" : {
+
+    },
+    "Simulación %@, salario %lld pesos, %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulación %1$@, salario %2$lld pesos, %3$@"
+          }
+        }
+      }
+    },
+    "Simulador" : {
+
+    },
+    "Simulador de bolsa" : {
+
+    },
+    "Simulador educativo con datos históricos. No es asesoría de inversión." : {
+
+    },
+    "Sin movimientos" : {
+
+    },
+    "Sugerimos invertir %@ (%lld%% de tu capital)." : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sugerimos invertir %1$@ (%2$lld%% de tu capital)."
+          }
+        }
+      }
+    },
+    "Te faltan %@ por asignar (%lld%% del salario)." : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Te faltan %1$@ por asignar (%2$lld%% del salario)."
+          }
+        }
+      }
+    },
+    "Te faltan %lld pesos por asignar" : {
+
+    },
+    "Te pasaste %@ del salario (%lld%%)." : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Te pasaste %1$@ del salario (%2$lld%%)."
+          }
+        }
+      }
+    },
+    "Te pasaste %lld pesos del salario" : {
+
+    },
+    "Termina la introducción y va a la selección de escenarios" : {
+
+    },
+    "Tienes %@ · %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tienes %1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "Toca para comprar o vender" : {
+
+    },
+    "Toca para elegir esta decisión" : {
+
+    },
+    "Toca para leer la definición y un ejemplo histórico" : {
+
+    },
+    "Total: %@" : {
+
+    },
+    "Tu capital o ahorros totales (en Pesos). No te preocupes: en el siguiente paso decidimos cuánto de eso conviene poner en bolsa." : {
+
+    },
+    "Tu decisión financiera" : {
+
+    },
+    "Tu decisión: %@" : {
+
+    },
+    "Tu dinero vs. la inflación" : {
+
+    },
+    "Tu posición" : {
+
+    },
+    "Tu reparto suma el 100% del salario." : {
+
+    },
+    "Tu score de resiliencia financiera: %lld de 100. %@. %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tu score de resiliencia financiera: %1$lld de 100. %2$@. %3$@"
+          }
+        }
+      }
+    },
+    "Turno" : {
+
+    },
+    "Turno %lld" : {
+
+    },
+    "Turno %lld · %@" : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turno %1$lld · %2$@"
+          }
+        }
+      }
+    },
+    "Tus decisiones" : {
+
+    },
+    "Tus partidas" : {
+
+    },
+    "Tus últimas simulaciones" : {
+
+    },
+    "Valor" : {
+
+    },
+    "Valor (USD)" : {
+
+    },
+    "Valor del portafolio" : {
+
+    },
+    "Valor del portafolio %lld dólares, rendimiento %@, equivalente a %@. Efectivo %lld dólares." : {
+      "localizations" : {
+        "es-MX" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Valor del portafolio %1$lld dólares, rendimiento %2$@, equivalente a %3$@. Efectivo %4$lld dólares."
+          }
+        }
+      }
+    },
+    "Vas a practicar invirtiendo en empresas reales con datos históricos, desde junio de 2023. Primero definamos con cuánto juegas." : {
+
+    },
+    "Vende las acciones y acredita el efectivo" : {
+
+    },
+    "Vender" : {
+
+    },
+    "Ver mis resultados" : {
+
+    },
+    "Ver resultados" : {
+
+    },
+    "Ver resultados finales" : {
+
+    },
+    "Vista de la gráfica" : {
+
+    },
+    "Vive una crisis económica real, decide con tus propias palabras y aprende de las consecuencias. Sin riesgo: aquí quebrar es gratis." : {
+
+    },
+    "Vivir esta crisis: %@" : {
+
+    },
+    "Volver al inicio" : {
+
+    },
+    "Vuelve a editar tu salario mensual" : {
+
+    }
+  },
+  "version" : "1.0"
+}
